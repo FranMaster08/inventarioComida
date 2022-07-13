@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Qwee",
+        "priceUni": "2334",
+        "Unite": "334"
+    },
+    {
+        "name": "Yuca",
+        "priceUni": "100",
+        "Unite": "4"
+    },
+    {
+        "name": "Papa",
+        "priceUni": "1",
+        "Unite": "2"
+    },
+    {
+        "name": "",
+        "priceUni": "200",
+        "Unite": "100"
+    },
+    {
+        "name": "Cebolla",
+        "priceUni": "12",
+        "Unite": "100"
+    }
+]

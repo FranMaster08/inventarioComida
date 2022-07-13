@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  width: 80vw;
+}
+
+.formulario {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+.input-control {
+  display: flex;
+  flex-direction: column;
+  height: 10vh;
+  margin-bottom: 15%;
+
+}
+
+.input-control input {
+  display: block;
+  height: 80px;
+  font-size: 55px;
+}
+
+.cargar {
+  font-size: 55px;
+  display: block;
+  width: 100%;
+  padding: 5px;
+  outline: 0;
+  background: rgb(62, 204, 62);
+  border-radius: 10px;
+
+
+}

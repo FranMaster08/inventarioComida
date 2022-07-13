@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<%- include('partials/head', {title: 'home' }) %>
+
+  <body>
+    <div class="container">
+      <h3>Compra en Mecado Central</h3>
+      <form class="formulario">
+        <div class="input-control">
+          <label for="name">Producto</label>
+          <input type="text" name="name">
+        </div>
+        <div class="input-control">
+          <label for="name">Precio Unitario</label>
+          <input type="number" name="priceUni">
+        </div>
+        <div class="input-control">
+          <label for="name">Cantidad</label>
+          <input type="number" name="Unite">
+        </div>
+        <div>
+          <input type="submit" value="Cargar" class="cargar">
+        </div>
+        <p class="mensaje">
+        </p>
+      </form>
+    </div>
+  </body>
+  <script src="./js/main.js"></script>
+
+</html>
